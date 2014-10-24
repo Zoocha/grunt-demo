@@ -1,4 +1,3 @@
-grunt-demo
-==========
+README.md
+This is the supporting code for the "Handling the Gruntwork of Frontend Automation" blogpost.
 
-Code supporting the "Offloading the Gruntwork of frontend development" blogpost (http://zoocha.com/blog/offloading-gruntwork-frontend-development) 

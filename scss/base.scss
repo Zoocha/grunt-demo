@@ -1,0 +1,20 @@
+@import "variables";
+
+body {
+	font: 62.5%/1.2 Helvetica, Arial, sans-serif;
+	background-color: $bgColour;
+	color: $textColour;
+}
+
+p {
+	margin: $margin;
+}
+
+ul, ol {
+	margin: 0;
+	list-style: none;
+}
+
+li {
+	margin: 0 0 1em 0;
+}
