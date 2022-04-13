@@ -1,0 +1,9 @@
+{
+  "boss":      true,
+  "node":      true,
+  "eqeqeq":    true,
+  "newcap":    false,
+  "undef":     true,
+  "onecase":   true,
+  "lastsemic": true
+}
